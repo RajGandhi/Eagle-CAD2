@@ -1,0 +1,7 @@
+"Part";"Value";"Device";"Package";"Description";"";
+"C1";"0.1u";"C-USC1812";"C1812";"CAPACITOR, American symbol";"";
+"R1";"0.01";"R-US_R2010";"R2010";"RESISTOR, American symbol";"";
+"U$2";"LTC2945-MSOP";"LTC2945-MSOP";"MSOP12";"";"";
+"U$3";"24-PINEVAL";"24-PINEVAL";"DIL24-6";"";"";
+"U$4";"JUMP-3";"JUMP-3";"JUMP-3";"";"";
+"U$5";"JUMP-3";"JUMP-3";"JUMP-3";"";"";
